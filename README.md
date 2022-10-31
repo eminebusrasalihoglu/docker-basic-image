@@ -17,4 +17,4 @@ docker rm image_id <br />
 docker run -d image_id <br />
 docker attach image_id <br />
 docker container logs image_id <br />
-dpcker -exec <br />
+docker -exec <br />
