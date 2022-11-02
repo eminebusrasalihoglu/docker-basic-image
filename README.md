@@ -3,6 +3,8 @@
 docker build -t time . <br />
 docker run time
 
+docker build --progress=plain .
+
 ***Docker Commands***
 
 docker pull ubuntu:20.04 <br />
